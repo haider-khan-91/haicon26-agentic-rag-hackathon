@@ -1,6 +1,6 @@
 # Agentic workshop hackathon — participant sheet
 
-**2 hours · on the spot · no prep required**
+**25.09.2026 · 09:30 to 15:30 · Neuherberg, NHB31, Room 3 · please arrive with the setup done**
 
 ## 1. Get the project
 
@@ -92,7 +92,7 @@ Overview: `TRACKS.md`
 
 ## 5. Deliverable
 
-Fill in the **“Your deliverable”** section at the bottom of your track file before 1:35.
+Fill in the **“Your deliverable”** section at the bottom of your track file before 15:00, when the presentations start.
 
 ## 6. The existing bot (four steps)
 
